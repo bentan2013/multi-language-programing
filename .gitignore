@@ -1,0 +1,6 @@
+**/release/*
+**/Debug/*
+*.suo
+*.opensdf
+**/pch/*
+**/ipch/*
